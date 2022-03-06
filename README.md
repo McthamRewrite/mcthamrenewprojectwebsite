@@ -1,4 +1,4 @@
 # mcthamrenewproject.gq
 mctham renew project offical website!
-# If you become from website
-[Switch to website version](mcthamrenewproject.gq/index.html)
+# Vist a website
+[Switch to website version](https://mcthamrenewproject.gq/index.html)
